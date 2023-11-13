@@ -229,7 +229,8 @@ if __name__ == "__main__":
 
 ## Visualizations:
 below are the visualizations/graphs of the datasets Train Dataset, Test Dataset, and the 4 chosen Ideal Functions.
-![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/cf3f6271-3f35-4806-a2fb-ee94f29e119b)
-![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/c0b694e6-c51c-4ad7-8c74-9429adef324b)
-![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/9aca97f5-2490-4ab8-8def-d9e4c76ce20a)
+![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/39388d6c-dc55-40c5-af4b-132601a44a59)
+![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/1868981d-b711-472b-b1e8-8cd795d96f0f)
+![image](https://github.com/Nourhannabil4/Data-Science-applications-and-Analytics-Using-Python/assets/129120566/9ee0ea9d-7603-48a8-94b9-79bac5b3a46d)
+
 
